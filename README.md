@@ -24,7 +24,8 @@ $ git clone https://github.com/slmt-tutorial-channel/c-sharp-class-materials.git
 
 ## 目錄
 
-- [第二點一課 - Visual Studio Community](class-1-to-10/class-2.1)
+- [第 2.1 課 - Visual Studio Community](class-1-to-10/class-2.1)
+- [第 47 課 - 多型性 (Polymorphism)](class-41-50/class-47)
 
 ## 錯誤回報
 
