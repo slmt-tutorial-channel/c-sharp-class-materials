@@ -25,7 +25,9 @@ $ git clone https://github.com/slmt-tutorial-channel/c-sharp-class-materials.git
 ## 目錄
 
 - [第 2.1 課 - Visual Studio Community](class-1-to-10/class-2.1)
+- [第 40 課 - 五子棋小遊戲 (一) - 棋盤與棋子](class-31-to-40/class-40)
 - [第 47 課 - 多型性 (Polymorphism)](class-41-50/class-47)
+- [第 48 課 - 介面 (Interface)](class-41-50/class-48)
 
 ## 錯誤回報
 
