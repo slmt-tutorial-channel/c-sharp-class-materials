@@ -28,6 +28,7 @@ $ git clone https://github.com/slmt-tutorial-channel/c-sharp-class-materials.git
 - [第 40 課 - 五子棋小遊戲 (一) - 棋盤與棋子](class-31-40/class-40)
 - [第 47 課 - 多型性 (Polymorphism)](class-41-50/class-47)
 - [第 48 課 - 介面 (Interface)](class-41-50/class-48)
+- [第 49 課 - 串列 (List)](class-41-50/class-49)
 
 ## 錯誤回報
 
