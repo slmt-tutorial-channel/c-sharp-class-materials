@@ -29,6 +29,7 @@ $ git clone https://github.com/slmt-tutorial-channel/c-sharp-class-materials.git
 - [第 47 課 - 多型性 (Polymorphism)](class-41-50/class-47)
 - [第 48 課 - 介面 (Interface)](class-41-50/class-48)
 - [第 49 課 - 串列 (List)](class-41-50/class-49)
+- [第 50 課 - 泛型 (Generics) 的初步介紹](class-41-50/class-50)
 
 ## 錯誤回報
 
